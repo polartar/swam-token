@@ -47,4 +47,3 @@ TOKEN_CONTRACT=0x820fe232433248732749C039EBcA0d43588Ad06d
 - Markets: https://blocktimeworld.com/swapmatic-markets/
 - Mining: https://blocktimeworld.com/swam-liquidity-mining/
 - Gitcoin: https://gitcoin.co/grants/1075/blocktime
-- https://medium.com/@admazzola/yield-farming-comes-to-matic-network-662afce55378
